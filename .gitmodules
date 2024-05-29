@@ -6,7 +6,7 @@
 	url = https://github.com/ezhang7423/chess_research.git
 [submodule "chess-nanoGPT"]
 	path = chess-nanoGPT
-	url = https://github.com/Founding-Zero/chess-nanoGPT.git
+	url = https://github.com/ezhang7423/chess-nanoGPT.git
 [submodule "fig-gen-transcendence"]
 	path = fig-gen-transcendence
 	url = https://github.com/Founding-Zero/fig-gen-transcendence.git
@@ -19,9 +19,6 @@
 [submodule "Chess_Latent_Board_State_TSNE"]
 	path = Chess_Latent_Board_State_TSNE
 	url = https://github.com/Founding-Zero/Chess_Latent_Board_State_TSNE.git
-[submodule "ezhang_owned/lichess-bot"]
-	path = ezhang_owned/lichess-bot
-	url = https://github.com/ezhang7423/lichess-bot.git
 [submodule "lichess-bot"]
 	path = lichess-bot
 	url = https://github.com/ezhang7423/lichess-bot.git
