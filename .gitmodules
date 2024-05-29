@@ -1,3 +1,6 @@
 [submodule "lichess_bot_multirunner"]
 	path = lichess_bot_multirunner
 	url = https://github.com/Founding-Zero/lichess_bot_multirunner.git
+[submodule "chess_research"]
+	path = chess_research
+	url = https://github.com/ezhang7423/chess_research.git
